@@ -1,49 +1,47 @@
 <div align="center">
 
 # Umer Farooq
-### Systems Architect | AI & Security Generalist
+### Software Engineer | Security & AI Systems
 *“What fun is life, without the fear of death”*
 
-[![Website](https://img.shields.io/badge/umerfruit.dev-Portfolio-black?style=flat-square)](https://umerfruit.dev)
-[![Blog](https://img.shields.io/badge/Lallu%20Syndrome-Blog-black?style=flat-square)](https://syndrome.umerfruit.dev)
+[Portfolio](https://umerfruit.dev) • [Blog](https://syndrome.umerfruit.dev)
 
 </div>
 
-### (/◕ヮ◕)/ About Me
-I am a recent FAST NUCES graduate who thrives on variety and high-level systems design. I take an architectural approach to building software, leveraging AI to accelerate workflows while focusing on system flow, infrastructure, and reliable connections. I enjoy being a generalist who bridges the gap between complex deployments, intelligent systems, and low-level security.
+### Overview
+I build systems that bridge the gap between low-level security, applied machine learning, and modern web infrastructure. I take an architectural approach to software, leveraging AI to accelerate workflows while focusing on system flow, containerized infrastructure, and reliable deployments.
 
 ---
 
-### (≧∇≦)/ What I Do
-*   **Systems Architecture:** Managing containerized infrastructure and endlessly ricing custom Arch Linux + Hyprland environments.
-*   **AI & Optimization:** Deploying intelligent ML workflows (diffusion models, NLP) and fine-tuning systems for maximum performance (e.g., tackling the 1 Billion Row Challenge).
-*   **Security & Low-Level:** Digital forensics, CTF challenges, and reverse engineering with C/C++ and x86 Assembly.
+### Selected Engineering & Research
 
----
-
-### (=_=) Selected Projects
-
-| Project | Description | Stack |
+| Project | Architecture & Implementation | Stack |
 | :--- | :--- | :--- |
-| **[UTX Systems](https://utx.systems)** | A smart expense tracker featuring visual analytics, loan management, and automated CSV bank statement imports. | `React` `Supabase` `TypeScript` |
-| **[Squish](https://umerfruit.github.io/squish)** | Client-side image compression. "Press the weight out of your pictures." 100% private; files never leave the browser tab. | `JavaScript` `WebAssembly` |
-| **[Lallu Syndrome](https://syndrome.umerfruit.dev)** | A cozy, multi-tenant blogging platform designed for comfortable reading and distraction-free writing. | `Vite` `React` `Supabase` |
-| **Digital Forensics Triage** | An optimized tool to parse gigabytes of video files and isolate relevant moments for forensic analysts. | `C++` `Python` |
-| **AI Malware Classification** | A multimodal detection system using static/dynamic analysis to classify keyloggers, ransomware, and trojans. | `Python` `ML` |
+| **NetSageAI** | Network Behaviour Anomaly Detection. Orchestrated a passive monitoring pipeline (Zeek, Arkime, CICFlowMeter) and built an LSTM autoencoder to flag anomalies via reconstruction error. | `Python` `TensorFlow` `Docker` `Zeek` |
+| **Vuln Assessment Pipeline** | Automated IP scanning workflows using OpenVAS, piping results directly into MISP for real-time threat feed correlation and CVE mapping. | `Python` `Flask` `OpenVAS` `MISP` |
+| **[Lallu Syndrome](https://syndrome.umerfruit.dev)** | Multi-tenant blogging platform. Hand-wrote SQL schemas and crafted the React/Tailwind UI for distraction-free technical writing. | `React` `TypeScript` `SQL` `Vite` |
+| **[UTX Systems](https://utx.systems)** | Full-stack budgeting application with visual analytics, loan management, and automated CSV bank statement parsing. | `React` `Supabase` `TypeScript` |
+| **[Squish](https://umerfruit.github.io/squish)** | Privacy-first, client-side image compression utility. Processes WebP/JPEG/PNG entirely within the browser tab. | `JavaScript` `WASM` |
 
 ---
 
-### (+_+) Experience Highlights
-*   **Freelance AI Consultant:** Custom ML model training, deployment, and architecture optimization.
-*   **Backend Engineer:** Engineered a native-Urdu healthcare voice agent (N8N, Twilio SIP, Retell AI, Node.js) and a prompt-to-video generation platform.
-*   **Cybersecurity Intern:** Red-team emulation using Mitre Caldera in isolated environments.
+### Technical Toolkit
+*   **Security & Forensics:** Burp Suite, Ghidra, Volatility, Wireshark, MITRE CALDERA, Belkasoft.
+*   **ML & Data:** PyTorch/TensorFlow, OpenCV, Pandas, Scikit-learn, YOLOv11.
+*   **Infrastructure:** Docker, CI/CD, Linux (Arch/Hyprland), QEMU/KVM, PM2.
+*   **Languages:** Python, C/C++, TypeScript/JS, SQL, Bash, x86 Assembly.
+
+---
+
+### Writing
+I document system configurations, malware analysis, and engineering deep-dives on my blog: **[syndrome.umerfruit.dev](https://syndrome.umerfruit.dev)**
 
 ---
 
 <div align="center">
 
-**Recent Graduate • Open to Opportunities in Systems, AI, and Backend Engineering**
+**Recent FAST NUCES Graduate • Open to engineering roles and technical collaborations.**
 
-[Email](mailto:contact@umerfarooq1105@gmail.com) • [LinkedIn](https://www.linkedin.com/in/umer-farooq-242130277/) • [GitHub](https://github.com/UmerFruit)
+[umerfarooq1105@gmail.com](mailto:umerfarooq1105@gmail.com) • [LinkedIn](https://www.linkedin.com/in/umer-farooq-242130277/)
 
 </div>
