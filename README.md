@@ -18,5 +18,7 @@ Memento Mori
 ---
 
 <div align="center">
+  
 [umerfarooq1105@gmail.com](mailto:umerfarooq1105@gmail.com) • [LinkedIn](https://www.linkedin.com/in/umer-farooq-242130277/)
+
 </div>
